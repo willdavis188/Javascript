@@ -30,6 +30,6 @@ function greet(theName){
     console.log('Hello ' + theName);
 }
 
-greet('John');
+greet('Blake');
 
 
